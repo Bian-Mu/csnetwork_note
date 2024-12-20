@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "第3章：运输层"
             }
+          },
+          {
+            "id": "f7be18b560000a01",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "第4章：网络层_数据平面.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "第4章：网络层_数据平面"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +110,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "第3章：运输层.md",
+            "file": "第4章：网络层_数据平面.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -147,14 +162,15 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "79d9e9c02bc1972a",
+  "active": "f7be18b560000a01",
   "lastOpenFiles": [
+    "第3章：运输层.md",
+    "第4章：网络层_数据平面.md",
+    "第2章：应用层.md",
+    "第1章：因特网.md",
     "pic/Screenshot_2024-12-20-09-22-02-539_md.obsidian.png",
     "pic/Screenshot_2024-12-19-11-12-39-715_com.flyersoft.moonreaderp 1.png",
     "1734331618639.jpg.jpg",
-    "第1章：因特网.md",
-    "第2章：应用层.md",
-    "第3章：运输层.md",
     "pic/Screenshot_2024-12-19-11-33-46-340_md.obsidian.png",
     "pic/Screenshot_2024-12-19-11-12-52-181_com.flyersoft.moonreaderp.png",
     "pic/Screenshot_2024-12-19-11-12-39-715_com.flyersoft.moonreaderp.png",
@@ -162,7 +178,6 @@
     "pic/Screenshot_2024-12-18-09-29-28-369_md.obsidian.png",
     "pic/Screenshot_2024-12-18-08-47-07-666_md.obsidian.png",
     "pic/Screenshot_2024-12-18-08-00-25-416_md.obsidian.png",
-    "pic/Pasted image 20241217171157.png",
     "pic"
   ]
 }
